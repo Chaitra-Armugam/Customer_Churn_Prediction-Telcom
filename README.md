@@ -48,11 +48,11 @@ Cross-validation showed that tuned tree models and a well-regularised Logistic R
 
 ### SHAP Summary Plot
 
-![SHAP Summary Plot](Images/shap_summary.png)
+![SHAP Summary Plot](Images/06_shap_summary.png)
 
 ### Model Evaluation
 
-![Confusion Matrix and ROC Curve](Images/evaluation.png)
+![Confusion Matrix and ROC Curve](Images/05_evaluation.png)
 
 ## Tech stack
 
